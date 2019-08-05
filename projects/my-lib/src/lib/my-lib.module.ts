@@ -8,6 +8,6 @@ import { ButtonComponent } from './components/button/button.component';
   declarations: [MyLibComponent, ButtonComponent],
   imports: [
   ],
-  exports: [MyLibComponent]
+  exports: [MyLibComponent, ButtonComponent]
 })
 export class MyLibModule { }
