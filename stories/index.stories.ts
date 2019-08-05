@@ -1,7 +1,7 @@
 import { storiesOf, moduleMetadata } from '@storybook/angular';
 import { Button } from '@storybook/angular/demo';
 
-import { MyLibModule } from 'dist/my-lib';
+import { MyLibModule } from '../dist/my-lib';
 
 const metadata = {
   declarations: [],
